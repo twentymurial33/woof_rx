@@ -7,7 +7,7 @@ export default function Main() {
     <div>
       <Header />
       <main></main>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
