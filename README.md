@@ -22,10 +22,12 @@ This is a React App boostrapped with CRA
 ---------------------------------------------------
 - [X] React
 - [X] React-DOM
+- [X] Material-UI
 - [X] Prisma
 - [X] .NET
 - [X] Jest
 - [X] AWS
+- [X] Firebase
 
 ### Running The Project Locally
 ---------------------------------------------------------
